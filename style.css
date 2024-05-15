@@ -4,8 +4,9 @@
 }
 
 body {
-    background-color: #548687;
+    background-color: #000000;
     text-align: center;
+    color: #fff;
 }
 
 .container {
@@ -30,10 +31,10 @@ body {
     width: 18vmin;
     border-radius: 1rem;
     border: none;
-    box-shadow: 0 0 1rem rgba(0,0,0,0.5);
+    box-shadow: 0 0 1rem rgba(244, 242, 242, 0.5);
     font-size: 8vmin;
-    color:#b0413e;
-    background-color: black;
+    color:#fff;
+    background-color: grey;
 }
 
 #reset-btn {
@@ -55,7 +56,7 @@ body {
 }
 
 #msg {
-    color: black;
+    color: rgb(255, 255, 255);
     font-size: 8vmin;
 }
 
